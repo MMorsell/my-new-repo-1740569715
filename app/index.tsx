@@ -15,6 +15,7 @@ export default function RootLayout() {
           headerTitleStyle: {
             fontWeight: '600',
           },
+          animation: 'fade',
         }}
       />
     </GestureHandlerRootView>
